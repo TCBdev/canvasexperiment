@@ -8,4 +8,4 @@
     * Query Selectors
 
 
-* See live version here [Cancvas Experiment](https://tcdev.github.io/canvasexperiment/). 
+* See live version here [Canvas Experiment](https://tcdev.github.io/canvasexperiment/). 
